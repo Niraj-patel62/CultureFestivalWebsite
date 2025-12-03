@@ -11,7 +11,7 @@ function App() {
   const [events, setEvents] = useState("");
   const [loading, setLoading] = useState(false);
 
-  const apiKey = "AIzaSyBwUDVwqzUmEzN43h6hrXvccpZnpm3MxQE";
+  const apiKey = "AIzaSyCcYExIBRcNT6jNRyr-ukin5y8EI0-xp2k";
 
   useEffect(() => {
     // Fetch states from Google API
